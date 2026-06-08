@@ -21,10 +21,10 @@
 class Ricardo {
     public string $location    = "Shizuoka, Japan 🗻";
     public string $company     = "Zap-Tech";
-    public string $role        = "Software Engineer & DevRel";
-    public array  $learning    = ["DevOps", "Backend Systems", "Open Source"];
+    public string $role        = "Junior Software Developer";
+    public array  $learning    = ["DevOps", "Backend Systems"];
     public array  $open_source = ["rapina-rs/rapina"]; // Rust web framework
-    public array  $interests   = ["Backend Development", "Distributed Systems"];
+    public array  $interests   = ["Backend Development"];
     public array  $languages   = [
         "native"       => "Portuguese 🇧🇷",
         "professional" => "English + Japanese",
