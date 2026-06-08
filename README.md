@@ -20,7 +20,7 @@
 
 class Ricardo {
     public string $location    = "Shizuoka, Japan 🗻";
-    public string $company     = "Zap-Tech";
+    public string $company     = "株式会社ＳＨＩＧＯＴＯ. ＭＥ";
     public string $role        = "Junior Software Developer";
     public array  $learning    = ["DevOps", "Backend Systems"];
     public array  $open_source = ["rapina-rs/rapina"]; // Rust web framework
@@ -39,10 +39,10 @@ class Ricardo {
   <br>
   <div align="center">
     <img align="center" alt="Profile Details"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uemuradevexe&theme=radical" />
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=richasdev&theme=radical" />
     <br><br>
     <img height="154" align="center" alt="Streak Stats"
-      src="https://github-readme-streak-stats.herokuapp.com?user=uemuradevexe&theme=radical&card_width=885" />
+      src="https://github-readme-streak-stats.herokuapp.com?user=richasdev&theme=radical&card_width=885" />
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uemuradevexe&layout=compact&theme=radical"/>
     <img src="https://github-readme-stats.vercel.app/api?username=uemuradevexe&show_icons=true&theme=radical"/>
