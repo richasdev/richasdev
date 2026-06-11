@@ -23,7 +23,6 @@ class Ricardo {
     public string $company     = "株式会社ＳＨＩＧＯＴＯ. ＭＥ";
     public string $role        = "Junior Software Developer";
     public array  $learning    = ["DevOps", "Backend Systems"];
-    public array  $open_source = ["rapina-rs/rapina"]; // Rust web framework
     public array  $interests   = ["Backend Development"];
     public array  $languages   = [
         "native"       => "Portuguese 🇧🇷",
