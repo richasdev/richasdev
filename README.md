@@ -88,23 +88,6 @@ class Ricardo {
 
 <br>
 
-<details align="center">
-  <summary><samp><b>🦀 Open Source — Rapina Framework</b></samp></summary>
-  <br>
-  <div align="center">
-    <samp>
-      I contribute to <a href="https://github.com/rapina-rs/rapina"><b>rapina-rs/rapina</b></a>, a Rust web framework focused on developer experience.<br>
-      My contributions include CLI features (<code>rapina jobs</code>, <code>wire_main_rs</code>), router additions (<code>PATCH</code>, <code>put_named</code>, <code>delete_named</code>),<br>
-      DevRel content, documentation, and changelogs.
-    </samp>
-    <br><br>
-    <a href="https://github.com/rapina-rs/rapina">
-    </a>
-  </div>
-</details>
-
-<br>
-
 <div align="center">
   <samp><b>Contact me:</b></samp>
   <br><br>
