@@ -22,8 +22,8 @@ class Ricardo {
     public string $location    = "Shizuoka, Japan 🗻";
     public string $company     = "株式会社ＳＨＩＧＯＴＯ. ＭＥ";
     public string $role        = "Junior Software Developer";
-    public array  $learning    = ["DevOps", "Backend Systems"];
-    public array  $interests   = ["Backend Development"];
+    public array  $learning    = ["DevOps", "Backend Systems", "Go"];
+    public array  $interests   = ["Backend Development", "Cloud", "DevOps"];
     public array  $languages   = [
         "native"       => "Portuguese 🇧🇷",
         "professional" => "English + Japanese",
