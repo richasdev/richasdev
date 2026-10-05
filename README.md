@@ -3,7 +3,7 @@
 
 <div align="center">
   <samp>
-    <b>SOFTWARE ENGINEER · OPEN SOURCE CONTRIBUTOR · BACKEND DEVELOPER</b>
+    <b>SOFTWARE ENGINEER ·  FULL-STACK DEVELOPER</b>
     <br>
     Born in Brazil 🇧🇷 · Based in Shizuoka, Japan 🇯🇵
   </samp>
